@@ -1,0 +1,70 @@
+{
+ "version": 1,
+ "episodes": [
+  {
+   "id": "voa-797b1496bc",
+   "title": "Green Means Spring and Other Things",
+   "series": "VOA Words and Their Stories",
+   "seriesZh": "词语故事",
+   "topic": "学英语",
+   "date": "2025-03-07",
+   "level": "B1",
+   "levels": [
+    "B1"
+   ],
+   "duration": 313,
+   "parts": [
+    "voa-797b1496bc"
+   ]
+  },
+  {
+   "id": "voa-2497f8f40a",
+   "title": "Don't Miss a Thing With 'Eagle Eyes'",
+   "series": "VOA Words and Their Stories",
+   "seriesZh": "词语故事",
+   "topic": "学英语",
+   "date": "2025-02-13",
+   "level": "B1",
+   "levels": [
+    "B1"
+   ],
+   "duration": 350,
+   "parts": [
+    "voa-2497f8f40a"
+   ]
+  },
+  {
+   "id": "voa-0653e1cdb8",
+   "title": "Protecting Apple Trees from Climate Change",
+   "series": "VOA Words and Their Stories",
+   "seriesZh": "词语故事",
+   "topic": "学英语",
+   "date": "2025-01-31",
+   "level": "B2",
+   "levels": [
+    "B2"
+   ],
+   "duration": 374,
+   "parts": [
+    "voa-0653e1cdb8"
+   ]
+  },
+  {
+   "id": "voa-56b1718686",
+   "title": "The Story of Jack Frost",
+   "series": "VOA Words and Their Stories",
+   "seriesZh": "词语故事",
+   "topic": "学英语",
+   "date": "2025-01-10",
+   "level": "B1",
+   "levels": [
+    "B1"
+   ],
+   "duration": 333,
+   "parts": [
+    "voa-56b1718686"
+   ]
+  }
+ ],
+ "assetBase": "https://github.com/limkown-stack/ditto-library/releases/download/v1"
+}
